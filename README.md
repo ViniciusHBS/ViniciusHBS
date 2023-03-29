@@ -1,4 +1,16 @@
-### Hi there 👋
+### Eai, tudo bem? 👋
+
+### 😄 Me chamo Vinicius, tenho 22 anos :)
+
+### 🔭 Atualmente sou Analista de MIS, e faço parte equipe da ML Gomes Advogados Associados.
+
+### ⚡ Sempre evoluindo, sempre aprendendo... 
+
+
+
+
+
+
 
 <!--
 **ViniciusHBS/ViniciusHBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
